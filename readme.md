@@ -1,6 +1,6 @@
 # Kin Calendar - Desktop Mac application
 
-[Download for Mac][https://github.com/mxgr/kin-calendar-desktop/raw/master/kincalendar.app.zip] - unzip and move 'Kin Calendar.app' to your application folder
+[Download for Mac](https://github.com/mxgr/kin-calendar-desktop/raw/master/kincalendar.app.zip) - unzip and move 'Kin Calendar.app' to your application folder
 
 ![App](screenshots/app.png)
 
@@ -13,7 +13,7 @@ I used [Nativefier](https://github.com/jiahaog/nativefier) to package the app, a
 
 ## Installation
 
-[Download for Mac][https://github.com/mxgr/kin-calendar-desktop/raw/master/kincalendar.app.zip] - unzip and move 'Kin Calendar.app' to your application folder
+[Download for Mac](https://github.com/mxgr/kin-calendar-desktop/raw/master/kincalendar.app.zip) - unzip and move 'Kin Calendar.app' to your application folder
 
 ## License
 
