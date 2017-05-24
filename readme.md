@@ -10,7 +10,7 @@ This is a native wrapper for the [Kin Today Calendar app](https://kin.today/) - 
 
 It allows you to run Kin Calendar as a desktop application on your mac.
 
-I used [Nativefier](https://github.com/jiahaog/nativefier) to package the app, a command line tool that allows you to easily create a desktop application for any web site with succinct and minimal configuration. Apps are wrapped by [Electron](http://electron.atom.io) in an OS executable (`.app`, `.exe`, etc.) for use on Windows, macOS and Linux.
+I used [Nativefier](https://github.com/jiahaog/nativefier) to package the app. It is a command line tool that allows you to easily create a desktop application for any web site with succinct and minimal configuration. Apps are wrapped by [Electron](http://electron.atom.io) in an OS executable (`.app`, `.exe`, etc.) for use on Windows, macOS and Linux.
 
 
 ## Installation
@@ -19,7 +19,7 @@ I used [Nativefier](https://github.com/jiahaog/nativefier) to package the app, a
 
 ## Disclaimer
 
-I haven't built Kin Calender - I only ran a command on my computer to create an executable.
+I haven't built Kin Calendar - I only ran a command on my computer to create an executable.
 
 ## License
 
